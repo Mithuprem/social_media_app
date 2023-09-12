@@ -176,133 +176,133 @@ class _ProfileState extends State<Profile> {
             //               child: Text(
             //                 "ListView", style: TextStyle(
             //                     fontWeight: FontWeight.bold, fontSize: 25),),),],),],),],),
-            //
-            //           // Expanded(
-            //           //   child: Stack(
-            //           //     alignment: Alignment.bottomCenter,
-            //           //     children: [
-            //           //       Align(
-            //           //         alignment: Alignment.topCenter,
-            //           //         child: Container(
-            //           //           padding: EdgeInsets.only(right: 5, left: 5),
-            //           //           // height: 300,
-            //           //           child: ListView(
-            //           //             shrinkWrap: true,
-            //           //             children: [
-            //           //               StaggeredGrid.count(
-            //           //                 crossAxisCount: 3,
-            //           //                 mainAxisSpacing: 3,
-            //           //                 crossAxisSpacing: 6,
-            //           //                 children: [
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 2,
-            //           //                       mainAxisCellCount: 2,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/1.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 2,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                         'assets/images/10.jpg',
-            //           //                         fit: BoxFit.cover,
-            //           //                       )),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 1,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                         'assets/images/4.jpg',
-            //           //                         fit: BoxFit.cover,
-            //           //                       )),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 1,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/5.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 1,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/6.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 1,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/7.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 1,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/8.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 1,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/9.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 1,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/10.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 4,
-            //           //                       mainAxisCellCount: 2,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/2.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 2,
-            //           //                       mainAxisCellCount: 2,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/8.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 2,
-            //           //                       mainAxisCellCount: 2,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/7.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 1,
-            //           //                       mainAxisCellCount: 2,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/6.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 1,
-            //           //                       mainAxisCellCount: 2,
-            //           //                       child: Image.asset(
-            //           //                         'assets/images/5.jpg',
-            //           //                         fit: BoxFit.cover,
-            //           //                       )),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 2,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                         'assets/images/3.jpg',
-            //           //                         fit: BoxFit.cover,
-            //           //                       )),
-            //           //                   StaggeredGridTile.count(
-            //           //                       crossAxisCellCount: 2,
-            //           //                       mainAxisCellCount: 1,
-            //           //                       child: Image.asset(
-            //           //                           'assets/images/4.jpg',
-            //           //                           fit: BoxFit.cover)),
-            //           //                 ],
-            //           //               ),
-            //           //             ],
-            //           //           ),
-            //           //         ),
-            //           //       ),
-            //           //     ],
-            //           //   ),
-            //           // ),
+            
+            //           Expanded(
+            //             child: Stack(
+            //               alignment: Alignment.bottomCenter,
+            //               children: [
+            //                 Align(
+            //                   alignment: Alignment.topCenter,
+            //                   child: Container(
+            //                     padding: EdgeInsets.only(right: 5, left: 5),
+            //                     // height: 300,
+            //                     child: ListView(
+            //                       shrinkWrap: true,
+            //                       children: [
+            //                         StaggeredGrid.count(
+            //                           crossAxisCount: 3,
+            //                           mainAxisSpacing: 3,
+            //                           crossAxisSpacing: 6,
+            //                           children: [
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 2,
+            //                                 mainAxisCellCount: 2,
+            //                                 child: Image.asset(
+            //                                     'assets/images/1.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 2,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                   'assets/images/10.jpg',
+            //                                   fit: BoxFit.cover,
+            //                                 )),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 1,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                   'assets/images/4.jpg',
+            //                                   fit: BoxFit.cover,
+            //                                 )),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 1,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                     'assets/images/5.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 1,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                     'assets/images/6.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 1,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                     'assets/images/7.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 1,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                     'assets/images/8.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 1,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                     'assets/images/9.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 1,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                     'assets/images/10.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 4,
+            //                                 mainAxisCellCount: 2,
+            //                                 child: Image.asset(
+            //                                     'assets/images/2.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 2,
+            //                                 mainAxisCellCount: 2,
+            //                                 child: Image.asset(
+            //                                     'assets/images/8.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 2,
+            //                                 mainAxisCellCount: 2,
+            //                                 child: Image.asset(
+            //                                     'assets/images/7.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 1,
+            //                                 mainAxisCellCount: 2,
+            //                                 child: Image.asset(
+            //                                     'assets/images/6.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 1,
+            //                                 mainAxisCellCount: 2,
+            //                                 child: Image.asset(
+            //                                   'assets/images/5.jpg',
+            //                                   fit: BoxFit.cover,
+            //                                 )),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 2,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                   'assets/images/3.jpg',
+            //                                   fit: BoxFit.cover,
+            //                                 )),
+            //                             StaggeredGridTile.count(
+            //                                 crossAxisCellCount: 2,
+            //                                 mainAxisCellCount: 1,
+            //                                 child: Image.asset(
+            //                                     'assets/images/4.jpg',
+            //                                     fit: BoxFit.cover)),
+            //                           ],
+            //                         ),
+            //                       ],
+            //                     ),
+            //                   ),
+            //                 ),
+            //               ],
+            //             ),
+            //           ),
             //         ],
             //       ),
             //   ),
